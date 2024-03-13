@@ -82,8 +82,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kobecode24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kobecode24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kobecode24&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
 ###
@@ -176,7 +177,6 @@
 [//]: # (###)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kobecode24&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31usndbpnc2xwuhjasicas6cvgqi)
