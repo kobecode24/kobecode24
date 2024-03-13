@@ -175,9 +175,11 @@
 [//]: # ()
 [//]: # (###)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31usndbpnc2xwuhjasicas6cvgqi)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kobecode24&theme=dark&mode=weekly)](https://git.io/streak-stats)
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31usndbpnc2xwuhjasicas6cvgqi)
 
 ###
 
