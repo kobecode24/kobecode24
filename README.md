@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kobe and I'm a Full Stack Developer Roujane
+<h2 align="left">Hi 👋! My name is Kobe and I'm a Full Stack Developer 
 </h2>
 
 ###
