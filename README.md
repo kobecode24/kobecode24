@@ -1,71 +1,81 @@
-<h2 align="left">Hi 👋! My name is Kobe and I'm a Full Stack Developer
-</h2>
+<div>
+  <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHh4czc4bzg0djg5cm05djBuNmtsazJ6OGNiamcwOXptdjJvNjk0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/INZUj2jZSruso/giphy.gif" />
 
-###
-![Views](https://github-views.deno.dev/api/badge/kobecode24?style=classic)
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHh4czc4bzg0djg5cm05djBuNmtsazJ6OGNiamcwOXptdjJvNjk0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/INZUj2jZSruso/giphy.gif"  />
+  <h2>Hi 👋! My name is Kobe and I'm a Full Stack Developer</h2>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="30" alt="digitalocean logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="jetbrains logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://res.cloudinary.com/hkjp5o9bu/image/upload/v1710345538/logos/whb4eckeyg6gc8spdmfi.png" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="phpstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="30" alt="webstorm logo"  />
+  ![Views](https://github-views.deno.dev/api/badge/kobecode24?style=classic)
 </div>
+
+###
+
+## ⚡ Tech Stack
+
+<table>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=spring,django,laravel" alt="Backend" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=angular,react,tailwind" alt="Frontend" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,ts,py,php,c,html,css" alt="Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch" alt="Databases" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,githubactions,gitlab,terraform,ansible" alt="DevOps" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws,azure,heroku" alt="Cloud" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Monitoring</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Monitoring" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Security</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=firebase" alt="Security" />
+      <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+      <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio" />
+      <img src="https://img.shields.io/badge/SendGrid-1A82E2?style=flat-square&logo=minutemailer&logoColor=white" alt="SendGrid" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>CMS</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white" alt="Strapi" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools & IDEs</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,webstorm,phpstorm,pycharm,idea,npm,linux,debian,md" alt="Tools" />
+    </td>
+  </tr>
+</table>
 
 ###
 
@@ -87,99 +97,8 @@
 </div>
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31usndbpnc2xwuhjasicas6cvgqi" alt="Alt text">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31usndbpnc2xwuhjasicas6cvgqi" alt="Spotify Recently Played">
 </p>
-
-[//]: # (<div align="left">)
-
-[//]: # (  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />)
-
-[//]: # (  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />)
-
-[//]: # (  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />)
-
-[//]: # (  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />)
-
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # (###)
-
-[//]: # ()
-[//]: # (<div align="left">)
-
-[//]: # (  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />)
-
-[//]: # (  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />)
-
-[//]: # (  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />)
-
-[//]: # (  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />)
-
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # (###)
-
-[//]: # ()
-[//]: # (<div align="center">)
-
-[//]: # (  <a href="https://open.spotify.com/user/kobe">)
-
-[//]: # (    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kobe&count=5" alt="Spotify recently played"  />)
-
-[//]: # (  </a>)
-
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # (###)
-
-[//]: # ()
-[//]: # (<div align="left">)
-
-[//]: # (  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />)
-
-[//]: # (  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />)
-
-[//]: # (  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />)
-
-[//]: # (  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />)
-
-[//]: # (  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />)
-
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # (###)
-
-[//]: # ()
-[//]: # (<div align="center">)
-
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # (###)
-
-[//]: # ()
-[//]: # (<div align="left">)
-
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # (###)
-
-[//]: # ()
-[//]: # (<div align="left">)
-
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # (###)
-
-
-
-
 
 
 
