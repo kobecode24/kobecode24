@@ -1,12 +1,15 @@
-<div>
-  <img align="right" height="150" style="margin: 20px 0;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHh4czc4bzg0djg5cm05djBuNmtsazJ6OGNiamcwOXptdjJvNjk0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/INZUj2jZSruso/giphy.gif" />
-
-  <h1 style="font-size: 1.5em;">Hi 👋! My name is Kobe and I'm a Full Stack Developer</h1>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top">
+      <h2>Hi 👋! My name is Kobe and I'm a Full Stack Developer</h2>
 
   ![Views](https://github-views.deno.dev/api/badge/kobecode24?style=classic)
-</div>
-
-<br clear="right">
+    </td>
+    <td>
+      <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHh4czc4bzg0djg5cm05djBuNmtsazJ6OGNiamcwOXptdjJvNjk0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/INZUj2jZSruso/giphy.gif" />
+    </td>
+  </tr>
+</table>
 
 ## ⚡ Tech Stack
 
