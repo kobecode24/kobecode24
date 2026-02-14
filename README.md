@@ -11,6 +11,17 @@
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DevOps+%26+Cloud+Engineer;Building+Scalable+Microservices;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" /></a>
+</p>
+
+## 🧑‍💻 About Me
+
+- Full Stack & DevOps engineer 
+- 🔭 Currently building scalable microservices with **Spring Boot** & **Kubernetes**
+- 🌱 Always exploring new technologies in **Cloud** & **DevOps**
+- ⚡ Passionate about clean code, automation, and continuous delivery
+
 ## ⚡ Tech Stack
 
 <table>
@@ -80,28 +91,31 @@
   </tr>
 </table>
 
-###
+## 🏆 GitHub Trophies
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kobecode24&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
-###
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kobecode24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kobecode24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kobecode24&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kobecode24&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
 </div>
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kobecode24/kobecode24/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kobecode24/kobecode24/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kobecode24/kobecode24/output/github-snake.svg" />
+</picture>
+
+## 🎵 Recently Played on Spotify
 
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31usndbpnc2xwuhjasicas6cvgqi" alt="Spotify Recently Played">
 </p>
-
-
-
