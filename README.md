@@ -94,7 +94,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-kannan.vercel.app/?username=kobecode24&theme=dracula&no-frame=true&no-bg=true&column=-1&rank=-C,-B,-UNKNOWN&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=kobecode24&theme=dracula&no-frame=true&no-bg=true&column=-1&rank=-C,-B,-UNKNOWN&title=-Issues,-Reviews&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 
